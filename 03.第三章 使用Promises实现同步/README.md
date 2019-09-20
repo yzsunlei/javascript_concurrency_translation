@@ -1178,9 +1178,9 @@ getData('foo').then((value) => {
 });
 ```
 
-这样更好。使用Promise.resolve()和Promise.reject()，任何使用getData()的代码默认都是并发的，
+这样更好。使用Promise.resolve()和Promise.reject()，任何使用getData()的代码默认都是并发的，即使
 
-即使数据获取操作是同步的。
+数据获取操作是同步的。
 
 
 ### 小结
