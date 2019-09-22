@@ -96,7 +96,7 @@ Promise状态的一个有趣特性是它们只转换一次。他们要么从等�
 
 第一次调用会改变Promise的状态。下面是一个图描绘了Promise的可能状态;它还显示了状态之间是如何变化的：
 
-![image060.gif](image060.gif)
+![image060.gif](../images/image060.gif)
 
 
 现在，我们来看看一些Promise代码。在这里，我们将完成一个promise，它会调用then()完成回调函数：
@@ -243,7 +243,7 @@ promise只是挂起，并没有触发完成回调也没有触发拒绝回调。�
 
 麻烦的;下面的图可以很清楚的看到这个情况：
 
-![image061.gif](image061.gif)
+![image061.gif](../images/image061.gif)
 
 
 在图中，我们可以看到哪个promise导致依赖的promise挂起，但调试代码来解决这个问题并不方便。现在让我们看
@@ -484,7 +484,7 @@ promise后清除状态。
 
 公用的清理函数。下面这种方式的示图：
 
-![image065.gif](image065.gif)
+![image065.gif](../images/image065.gif)
 
 
 将清理责任分配给promise是否更有意义，而不是将其分配给个别结果？这样，在解析promise时运行的回调函数专注于
@@ -705,7 +705,7 @@ promise的内部JavaScript记录，以及我们添加的函数。因此，它不
 
 这是一张图，说明当我们链接两个或更多then()一起调用时会发生什么：
 
-![image069.gif](image069.gif)
+![image069.gif](../images/image069.gif)
 
 
 我们可以看到，then()方法不会返回与上下文一起调用的相同实例。相反，then()创建一个新的promise实例
@@ -811,7 +811,7 @@ promises的好处是用于提供这些回调函数的接口小巧且一致。当
 
 是常见的。这是几个promise函数相互传递的示图：
 
-![image071.gif](image071.gif)
+![image071.gif](../images/image071.gif)
 
 
 在这个函数堆栈调用结束时，我们得到一个完成几个promise的解析的promise对象。整个promise链是从第一个
