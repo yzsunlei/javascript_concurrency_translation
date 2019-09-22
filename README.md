@@ -12,6 +12,7 @@
 
 - [第三章 使用promise实现同步](03.第三章%20使用promise实现同步/README.md)
 
+- [第四章 使用Generators实现惰性计算](04.第四章 使用Generators实现惰性计算/README.md)
 
 
 
