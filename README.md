@@ -12,9 +12,9 @@
 
 - [第三章 使用promise实现同步](03.第三章%20使用promise实现同步/README.md)
 
-- [第四章 使用Generators实现惰性计算](04.第四章 使用Generators实现惰性计算/README.md)
+- [第四章 使用Generators实现惰性计算](04.第四章%20使用Generators实现惰性计算/README.md)
 
-
+- [第五章 使用Web Workers](05.第五章%20使用Web%20Workers/README.md)
 
 
 - [IIII.难懂英中文对照表](IIII.难懂英中文对照表.md)
