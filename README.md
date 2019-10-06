@@ -1,5 +1,7 @@
 ## 《JavaScript并发编程》翻译中文版
 
+![封面](./images/cover.jpg)
+
 原书pdf电子书：[https://pan.baidu.com/s/1D58-nAhSqPsJVHTyb1357w](https://pan.baidu.com/s/1D58-nAhSqPsJVHTyb1357w)
 
 由于能力有限，肯定存在翻译不清楚甚至翻译错误的地方，欢迎朋友提issue指出，感谢。
@@ -22,7 +24,7 @@
 
 - [第七章 抽象并发](07.第七章%20抽象并发/README.md)
 
-- [第八章 NodeJS中的Evented IO](08.第八章%20NodeJS中的Evented IO/README.md)
+- [第八章 NodeJS中的Evented IO](08.第八章%20NodeJS中的Evented%20IO/README.md)
 
 - [第九章 NodeJS高级并发](09.第九章%20NodeJS高级并发/README.md)
 
