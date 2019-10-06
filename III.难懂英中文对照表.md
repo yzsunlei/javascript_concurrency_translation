@@ -196,7 +196,7 @@
 
 - elaborate corrective 详细纠正
 
-#3# 第六章
+### 第六章
 
 - functional programming 函数式编程
 
@@ -382,4 +382,3 @@
 - suffice 足够、足以
 
 - P244：Typically, this is handled outside of node application, but we'll include them here because there are times where it's just easier to go batteries include.
-- 
