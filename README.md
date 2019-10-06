@@ -1,6 +1,6 @@
 ## 《JavaScript并发编程》翻译中文版
 
-![封面](./images/cover.jpg)
+![封面](./images/cover.png)
 
 原书pdf电子书：[https://pan.baidu.com/s/1D58-nAhSqPsJVHTyb1357w](https://pan.baidu.com/s/1D58-nAhSqPsJVHTyb1357w)
 
