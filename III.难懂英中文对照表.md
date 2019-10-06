@@ -1,44 +1,202 @@
 ## 难懂英中文对照表
 
+- dread 非常害怕、极为担心
+
+- grip 紧握、紧抓、理解、了解
+
+- errata 文字错误
+
+### 第一章
+
 - run-to-completion 运行到完成
 
 - brain-freeze “大脑冻结”
 
 - make an upfront assumption of 预先假设
 
+- inevitable 不可避免的、必然发生的事
+
+- litany 连祷文、总祷文
+
 - monkey-patching 猴子补丁
 
 - fire-and-forget 一劳永逸
 
-- sanity 明智
+- be confined with 被限制在
 
-- a couple of scenarios 几个场景
+- picture a juggler 想象一个变戏法的人
+
+- rationale 基本原理、根本原因
+
+- scrutinize 仔细查看、认真检查、细致审查
+
+- notion 观念、信念、理解
+
+- succinct 简明的、言简意赅的
+
+### 第二章
+
+- trivial 不重要的、琐碎的、微不足道的
+
+- insane 精神错乱的、十分愚蠢的
+
+- shed some light on 照亮
+
+- orchestrate 精心安排、策划、密谋
+
+- terminology 术语、专门用语
+
+- augment 增加、提高、补充物
+
+- reveal 揭示、显示、透露
+
+- staple 主要的、基本的、用订书钉装订
+
+- sanity 明智、理智、通情达理
 
 - be reflective of 反思
 
-- trip over 绊倒而摔跤
-
-- imperceptible 无法察觉的，感觉不到的
+- trip over 绊在障碍物上而跌跤
 
 - as a corollary 作为推论
 
-- specialized resolution semantics 专门的解析语义
-
 - as the name implies 顾名思义
 
-- semantics 含义
-
-- leave responsible for 离开责任
-
-- reconciliation 调解
+- semantics 语义学、含义
 
 - get your grips to 抓紧时间
 
-- advance to 进入到...
+- advance to 进入到...、发展到...
 
-- affinity 喜爱，亲和
+- affinity 喜爱、亲和、类同
 
-## 第六章
+### 第三章
+
+- nail down 弄清、确定
+
+- sanity 精神健全、神志正常、明智、理智
+
+- be stuck in 停止不前，动弹不得
+
+- counterintuitive 反常的
+
+- depict 描绘、描画、描写、描述
+
+- opaque 不透光的、浑浊的、难懂、模糊
+
+- orchestrate 精心安排、策划、密谋
+
+- viable case 可行的案例
+
+- sifting through 筛选
+
+- encapsulate 简述、概括、压缩
+
+- aesthetics (审) 美学
+
+- harsh 残酷的、严酷的、严厉的、恶劣的
+
+- trait 特征、特性、特点
+
+- unobtrusive 不张扬的、不招摇的
+
+- irrelevant 无关紧要的、不相关的
+
+- brevity 简洁、简炼、短暂
+
+- seamless 无空隙的、不停顿的
+
+- ambiguous 模棱两可的、含混不清的、不明确的
+
+- plague 灾害、祸患、困扰、折磨
+
+### 第四章
+
+- imperceptible 无法察觉的，感觉不到的
+
+- discard 丢弃、抛弃、被抛弃的人(或物)
+
+- tangible 实际的、真实的、可触摸的、可触知的
+
+- explicit 清楚明白的、明确的、直截了当的
+
+- asterisk 星号、加星号于
+
+- condensed 精简的、简缩、压缩(文字、信息等)
+
+- sidestep 回避、规避、台阶
+
+- potential 潜在的、可能的、可能性、潜在性
+
+- a mesh of 网状物
+
+- heuristic 启发式的
+
+- preclude 使行不通、阻止、妨碍、排除
+
+- handoff 伸手阻挡对手、给球、传球
+
+- round-robin 循环、轮转、轮询、轮循
+
+- lean 倾斜、倚靠、瘦且健康的、脂肪少的
+
+- easy to grok 容易摸索
+
+- take a stab at 试图作某事
+
+- intrinsic 固有的、内在的、本身的
+
+- partway 中途、不完全
+
+### 第五章
+
+- be confined to 局限于、限制于、禁闭、限制在
+
+- conceptual 概念(上)的、观念(上)的
+
+- at the mercy of 完全由…支配、任由…摆布
+
+- spike 尖状物、尖头、尖刺、(防滑)鞋钉
+
+- insurmountable 无法克服的、难以解决的、不可逾越的
+
+- orchestration 管弦乐编曲
+
+- depiction 描绘、描画、描写
+
+- sole crunch of numbers 唯一的数字运算
+
+- needless to say 不用说、不必说
+
+- prone 易于遭受、有做…倾向的
+
+- relevant 紧密相关的、切题的、有价值的、有意义的
+
+- incur 招致、遭受、引起
+
+- leverage 影响力、杠杆作用
+
+- satellite 人造卫星、外围组织
+
+- spawn 引发、引起、导致、造成
+
+- discrete 分离的、互不相连的、各别的
+
+- churn 剧烈搅动、心烦意乱
+
+- reconcile 调和、使配合、使和解
+
+- trade-off 权衡、协调
+
+- warrant 执行令、许可证、使有必要
+
+- naive 缺乏经验的、幼稚的、率直的
+
+- errant 犯错误的、行为不当的、出格的、对配偶不忠的
+
+- elaborate corrective 详细纠正
+
+#3# 第六章
 
 - functional programming 函数式编程
 
@@ -82,7 +240,7 @@
 
 - keystroke 击键、按键
 
-## 第七章
+### 第七章
 
 - workhorse 埋头苦干的人、耐用的机器
 
@@ -133,7 +291,7 @@
 - P64：The only time the main thread is used is when the processing chain is first kicked off by posting a message to the first channel and when the message is received from the third channel。
 
 
-## 第八章
+### 第八章
 
 - gigantic 巨大的、庞大的
 
@@ -150,7 +308,7 @@
 - degradation 堕落、落泊、潦倒
 
 
-## 第九章
+### 第九章
 
 - subtle 不易察觉的、不明显的、微妙的、机智的
 
@@ -193,7 +351,7 @@
 - P213："I have no other consolatory words of wisdom here - it's just a fact."
 
 
-## 第十章
+### 第十章
 
 - rehash 重新推出、以新形式表达旧内容
 
