@@ -22,9 +22,9 @@
 
 - [第五章 使用Web Workers](05.第五章%20使用Web%20Workers/README.md)
 
-- [第六章 实用的并行化](06.第六章%20实用的并行化/README.md)
+- [第六章 实用的并发](06.第六章%20实用的并发/README.md)
 
-- [第七章 抽象并发](07.第七章%20抽象并发/README.md)
+- [第七章 抽取并发逻辑](07.第七章%20抽取并发逻辑/README.md)
 
 - [第八章 NodeJS中的Evented IO](08.第八章%20NodeJS中的Evented%20IO/README.md)
 
