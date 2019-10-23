@@ -146,7 +146,7 @@ co(function* () {
 	//此处解析了“first”和“second”两个问题，
 	//所以我们可以使用它们来映射一个新数组。
 	return first.map((v, i) => [v, second[i]]);
-})。then((value) => {
+}).then((value) => {
 	console.log('zipped', value);
 	//→
 	// [
@@ -554,7 +554,7 @@ var first = Promise.all(array.map(send)).then((results) => {
 //它应该比以前花费更少的时间来处理这个数组。
 array = new Array(50)
 	.fill(null)
-	.map((v，i) => (i + 1) * 10);
+	.map((v, i) => (i + 1) * 10);
 
 //处理第二个数组，记录迭代的结果。
 var second = Promise.all(array.map(send))

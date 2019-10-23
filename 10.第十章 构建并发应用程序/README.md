@@ -377,10 +377,10 @@ function formFields(req) {
 				reject(err);
 			} else {
 				resolve(fields);
-			});
-		}
-	}
-});
+			}
+		});
+	})
+};
 ```
 
 当我们想要表单字段时，我们有一个合作的promise，这不错。但是现在，我们需要在协程的上下文中使用该函数。
@@ -984,7 +984,7 @@ window.addEventListener('load', (e) => {
 			});
 		} else {
 			poll(chatId);
-		});
+		};
 	});
 });
 ```
