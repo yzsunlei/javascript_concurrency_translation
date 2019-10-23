@@ -178,6 +178,14 @@
 
 - partway 中途; 不完全
 
+- P67: This is the laziness factor; we conserve our efforts until they're actually required, avoiding allocations and computations.
+
+- 译：这是懒惰的因素；我们会保留我们的努力，直到他们真正需要，避免分配和计算。
+
+- P86: This is a lot to remember, so let's generalize these coroutine concepts in a function wrapper.
+
+- 译：这需要记住很多，所以让我们在函数包装器中概括这些协程概念。
+
 ### 第五章
 
 - be confined to 局限于; 限制于; 禁闭; 限制在
@@ -320,6 +328,7 @@
 
 - P64：The only time the main thread is used is when the processing chain is first kicked off by posting a message to the first channel and when the message is received from the third channel。
 
+- 译：唯一使用主线程的时间是当处理链第一次通过向第一个通道发送消息而启动时，以及当消息从第三个通道接收时。
 
 ### 第八章
 
@@ -381,8 +390,9 @@
 
 - foray 尝试; 突袭; 闪电式袭击
 
-- P213："I have no other consolatory words of wisdom here - it's just a fact."
+- P213：I have no other consolatory words of wisdom here - it's just a fact.
 
+- 译：我在这里没有其他的安慰的话-这只是一个事实。
 
 ### 第十章
 
@@ -415,3 +425,5 @@
 - suffice 足够; 足以
 
 - P244：Typically, this is handled outside of node application, but we'll include them here because there are times where it's just easier to go batteries include.
+
+- 译：通常，这是在节点应用程序之外处理的，但我们将在这里包括它们，因为有时一群更容易包括在内。
