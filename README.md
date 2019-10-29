@@ -4,6 +4,8 @@
 
 原书pdf电子书：[https://pan.baidu.com/s/1D58-nAhSqPsJVHTyb1357w](https://pan.baidu.com/s/1D58-nAhSqPsJVHTyb1357w)
 
+翻译gitbook电子书：[https://javascript-concurrency.gitbook.io/](https://javascript-concurrency.gitbook.io/)
+
 由于能力有限，肯定存在翻译不清楚甚至翻译错误的地方，欢迎朋友提issue指出，感谢。 
 
 ![书目导图](https://github.com/yzsunlei/javascript_concurrency_translation/blob/master/images/书目导图.png?raw=true)
