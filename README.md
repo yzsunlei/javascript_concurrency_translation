@@ -1,12 +1,12 @@
 ## 《JavaScript并发编程》翻译中文版
 
-![封面](https://github.com/yzsunlei/javascript_concurrency_translation/blob/master/images/cover.png)
+![封面](https://github.com/yzsunlei/javascript_concurrency_translation/blob/master/images/cover.png?raw=true)
 
 原书pdf电子书：[https://pan.baidu.com/s/1D58-nAhSqPsJVHTyb1357w](https://pan.baidu.com/s/1D58-nAhSqPsJVHTyb1357w)
 
 由于能力有限，肯定存在翻译不清楚甚至翻译错误的地方，欢迎朋友提issue指出，感谢。 
 
-![书目导图](https://github.com/yzsunlei/javascript_concurrency_translation/blob/master/images/书目导图.png)
+![书目导图](https://github.com/yzsunlei/javascript_concurrency_translation/blob/master/images/书目导图.png?raw=true)
 
 以下是书籍目录：
 
