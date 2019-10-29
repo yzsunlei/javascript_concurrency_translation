@@ -624,7 +624,7 @@ NodeJS中的请求代理正如其名。请求到达服务器，由Node进程处�
 > 微服务架构是一个很大的话题，显然远远超出了本书的范围。这里的重点是微服务启用 - 机制比设计更多。
 
 
-我们将使用node-http-proxy(https://github.com/nodejitsu/node- http-proxy)模块来实现我们的代理服务器。这不是核心Node模块，因此我们的应用程序需要将其作为npm依赖项。让我们看一下代理请求到相应服务的基本示例：
+我们将使用node-http-proxy(`https://github.com/nodejitsu/node-http-proxy`)模块来实现我们的代理服务器。这不是核心Node模块，因此我们的应用程序需要将其作为npm依赖项。让我们看一下代理请求到相应服务的基本示例：
 
 > 此示例启动三个Web服务器，每个服务器在不同的端口上运行。
 
