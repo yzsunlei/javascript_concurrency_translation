@@ -8,7 +8,7 @@
 
 ### 使用Co中的协程
 
-在“第4章，使用Generators实现惰性计算”中，我们已经看到了使用generator在前端实现协程的一种方法。在本节中，我们将使用Co库(https://github.com/tj/co)来实现协程。该库也是依赖于generator和promise。
+在“第4章，使用Generators实现惰性计算”中，我们已经看到了使用generator在前端实现协程的一种方法。在本节中，我们将使用Co库(`https://github.com/tj/co`)来实现协程。该库也是依赖于generator和promise。
 
 
 我们首先介绍Co的一般前提，然后，我们将编写一些使用promises等待异步值的代码。然后，我们将研究将已解析值从promise转移到我们的协程函数，异步依赖关系以及创建协程工具函数的机制。
